@@ -1,6 +1,4 @@
-'use strict';
-
-
+'use strict'; 
 
 var pack = require('./package');
 var path = require('path');
